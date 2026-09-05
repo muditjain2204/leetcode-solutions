@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/muditjain2204/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muditjain2204/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/muditjain2204/leetcode-solutions/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muditjain2204/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/muditjain2204/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muditjain2204/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/muditjain2204/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/muditjain2204/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muditjain2204/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muditjain2204/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/muditjain2204/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/muditjain2204/leetcode-solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/muditjain2204/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/muditjain2204/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/muditjain2204/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/muditjain2204/leetcode-solutions/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -112,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/muditjain2204/leetcode-solutions/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/muditjain2204/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
