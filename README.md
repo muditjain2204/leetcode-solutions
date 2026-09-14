@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muditjain2204/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/muditjain2204/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/muditjain2204/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0387-first-unique-character-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muditjain2204/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Array
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/muditjain2204/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/muditjain2204/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/muditjain2204/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/muditjain2204/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/muditjain2204/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/muditjain2204/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/muditjain2204/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muditjain2204/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,8 +183,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/muditjain2204/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 ## Ordered Set
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/muditjain2204/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+## Graph Theory
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
