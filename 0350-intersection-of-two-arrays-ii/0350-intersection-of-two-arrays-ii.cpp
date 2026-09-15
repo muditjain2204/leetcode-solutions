@@ -1,24 +1,24 @@
 #include <vector>
-#include <algorithm>
+#include <unordered_map>
 
 class Solution {
 public:
     std::vector<int> intersect(std::vector<int>& nums1, std::vector<int>& nums2) {
-        std::sort(nums1.begin(), nums1.end());
-        std::sort(nums2.begin(), nums2.end());
+        // Optimize space by mapping the smaller array
+        if (nums1.size() > nums2.size()) {
+            return intersect(nums2, nums1);
+        }
 
-        int i = 0, j = 0;
+        std::unordered_map<int, int> counts;
+        for (int num : nums1) {
+            counts[num]++;
+        }
+
         std::vector<int> result;
-
-        while (i < nums1.size() && j < nums2.size()) {
-            if (nums1[i] == nums2[j]) {
-                result.push_back(nums1[i]);
-                i++;
-                j++;
-            } else if (nums1[i] < nums2[j]) {
-                i++;
-            } else {
-                j++;
+        for (int num : nums2) {
+            if (counts[num] > 0) {
+                result.push_back(num);
+                counts[num]--;
             }
         }
 
