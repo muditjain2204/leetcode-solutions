@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/muditjain2204/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/muditjain2204/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/muditjain2204/leetcode-solutions/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/muditjain2204/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muditjain2204/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Queue
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/muditjain2204/leetcode-solutions/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/muditjain2204/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/muditjain2204/leetcode-solutions/tree/master/0475-heaters) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/muditjain2204/leetcode-solutions/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/muditjain2204/leetcode-solutions/tree/master/0475-heaters) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/muditjain2204/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/muditjain2204/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/muditjain2204/leetcode-solutions/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/muditjain2204/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
