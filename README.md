@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/muditjain2204/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/muditjain2204/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/muditjain2204/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/muditjain2204/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/muditjain2204/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/muditjain2204/leetcode-solutions/tree/master/0475-heaters) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/muditjain2204/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/muditjain2204/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/muditjain2204/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/muditjain2204/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/muditjain2204/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/muditjain2204/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/muditjain2204/leetcode-solutions/tree/master/0475-heaters) |
@@ -206,10 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/muditjain2204/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/muditjain2204/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/muditjain2204/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/muditjain2204/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 ## Sweep Line
 |  |
 | ------- |
