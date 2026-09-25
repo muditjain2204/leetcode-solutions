@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/muditjain2204/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muditjain2204/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/muditjain2204/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/muditjain2204/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/muditjain2204/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/muditjain2204/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/muditjain2204/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/muditjain2204/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 ## Stack
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/muditjain2204/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Manacher
 |  |
@@ -318,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
