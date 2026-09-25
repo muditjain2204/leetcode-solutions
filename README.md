@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/muditjain2204/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/muditjain2204/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/muditjain2204/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/muditjain2204/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/muditjain2204/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muditjain2204/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/muditjain2204/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0368-largest-divisible-subset](https://github.com/muditjain2204/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 ## Matrix
 |  |
