@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/muditjain2204/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/muditjain2204/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/muditjain2204/leetcode-solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/muditjain2204/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/muditjain2204/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muditjain2204/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/muditjain2204/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/muditjain2204/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/muditjain2204/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/muditjain2204/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/muditjain2204/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/muditjain2204/leetcode-solutions/tree/master/0169-majority-element) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/muditjain2204/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/muditjain2204/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 ## Binary Tree
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muditjain2204/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/muditjain2204/leetcode-solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/muditjain2204/leetcode-solutions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/muditjain2204/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
