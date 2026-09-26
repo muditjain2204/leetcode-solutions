@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/muditjain2204/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/muditjain2204/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/muditjain2204/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/muditjain2204/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/muditjain2204/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/muditjain2204/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/muditjain2204/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muditjain2204/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/muditjain2204/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/muditjain2204/leetcode-solutions/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/muditjain2204/leetcode-solutions/tree/master/0455-assign-cookies) |
