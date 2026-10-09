@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/muditjain2204/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/muditjain2204/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/muditjain2204/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0241-different-ways-to-add-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/muditjain2204/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0387-first-unique-character-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/muditjain2204/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/muditjain2204/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0241-different-ways-to-add-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/muditjain2204/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/muditjain2204/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/muditjain2204/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 ## Stack
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/muditjain2204/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/muditjain2204/leetcode-solutions/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/muditjain2204/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 ## Matrix
 |  |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -369,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/muditjain2204/leetcode-solutions/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Brute-Force Search
 |  |
 | ------- |
