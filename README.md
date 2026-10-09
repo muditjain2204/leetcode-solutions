@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/muditjain2204/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/muditjain2204/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/muditjain2204/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0387-first-unique-character-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muditjain2204/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/muditjain2204/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/muditjain2204/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/muditjain2204/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/muditjain2204/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 ## Stack
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/muditjain2204/leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/muditjain2204/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/muditjain2204/leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## Dynamic Programming
 |  |
 | ------- |
