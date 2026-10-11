@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/muditjain2204/leetcode-solutions/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/muditjain2204/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/muditjain2204/leetcode-solutions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/muditjain2204/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/muditjain2204/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/muditjain2204/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/muditjain2204/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/muditjain2204/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/muditjain2204/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/muditjain2204/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/muditjain2204/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/muditjain2204/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/muditjain2204/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muditjain2204/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/muditjain2204/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/muditjain2204/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/muditjain2204/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/muditjain2204/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Manacher
 |  |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/muditjain2204/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -364,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/muditjain2204/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -386,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/muditjain2204/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/muditjain2204/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/muditjain2204/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
