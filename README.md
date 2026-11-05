@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/muditjain2204/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/muditjain2204/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/muditjain2204/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muditjain2204/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/muditjain2204/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/muditjain2204/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/muditjain2204/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+| [0383-ransom-note](https://github.com/muditjain2204/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muditjain2204/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/muditjain2204/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/muditjain2204/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/muditjain2204/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/muditjain2204/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muditjain2204/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/muditjain2204/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
