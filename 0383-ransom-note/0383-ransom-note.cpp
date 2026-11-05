@@ -5,18 +5,33 @@ public:
             return false;
         }
 
-        int count[26] = {0};
+        // int count[26] = {0};
+        // for(char c : magazine){
+        //     count[c-'a']++;
+
+        // }
+
+        // for(char c : ransomNote){
+        //     if(--count[c-'a']< 0){
+        //         return false;
+        //     }
+        // }
+
+        // return true;
+
+        unordered_map<char, int> count;
         for(char c : magazine){
-            count[c-'a']++;
+            count[c]++;
 
         }
-
         for(char c : ransomNote){
-            if(--count[c-'a']< 0){
+            if(count[c] <= 0){
                 return false;
             }
+            count [c]--;
         }
 
         return true;
+
     }
 };
